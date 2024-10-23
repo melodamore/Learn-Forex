@@ -12,7 +12,7 @@
 ## ```Preschool (1 of 11)```
 ### _Introduction ስለ Forex Trading እና Currency Exchange Market._
  - ## የForex ምንነት
-    #### 📌 [Forex ምንድን ነው?]()
+    #### 📌 [Forex ምንድን ነው?](https://github.com/melodamore/Learn-Forex/blob/main/Preschool/What_is_forex/What_is-forex.md)
     #### 📌 [Forex ውስጥ Trade የሚደረገው ምንድን ነው?]()
     #### 📌 [Currencyዎችን መሸጥ እና መግዛት]()
     #### 📌 [የForex market **size** እና **liquidity**]()
